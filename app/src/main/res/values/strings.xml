@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Anime spinner listing</string>
+    <string-array name="anime_array">
+        <item>Choose Anime </item>
+        <item>Hunter X Hunter</item>
+        <item>Dragon Ball</item>
+        <item>Death Note</item>
+        <item>One Piece</item>
+        <item>Attack on Titan</item>
+        <item>One Punch Man</item>
+        <item>Pokémon</item>
+        <item>Parasyte: The Maxim</item>
+        <item>Naruto Shippuden</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Bleach</item>
+        <item>Solo Leveling</item>
+        <item>Demon Slayer</item>
+        <item>My Hero Academia</item>
+        <item>Spirited Away</item>
+        <item>My Neighbor Totoro</item>
+        <item>Ponyo</item>
+        <item>The Cat Returns</item>
+        <item>Arrietty</item>
+    </string-array>
+
+</resources>
